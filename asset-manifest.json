@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "/playground-react/static/css/main.fb125279.chunk.css",
+    "main.js": "/playground-react/static/js/main.cefc82fd.chunk.js",
+    "main.js.map": "/playground-react/static/js/main.cefc82fd.chunk.js.map",
+    "runtime-main.js": "/playground-react/static/js/runtime-main.dabacdfd.js",
+    "runtime-main.js.map": "/playground-react/static/js/runtime-main.dabacdfd.js.map",
+    "static/css/2.c46397a6.chunk.css": "/playground-react/static/css/2.c46397a6.chunk.css",
+    "static/js/2.d167ecae.chunk.js": "/playground-react/static/js/2.d167ecae.chunk.js",
+    "static/js/2.d167ecae.chunk.js.map": "/playground-react/static/js/2.d167ecae.chunk.js.map",
+    "index.html": "/playground-react/index.html",
+    "precache-manifest.f1c7306e5f26cf2f7cb64d7128746992.js": "/playground-react/precache-manifest.f1c7306e5f26cf2f7cb64d7128746992.js",
+    "service-worker.js": "/playground-react/service-worker.js",
+    "static/css/2.c46397a6.chunk.css.map": "/playground-react/static/css/2.c46397a6.chunk.css.map",
+    "static/css/main.fb125279.chunk.css.map": "/playground-react/static/css/main.fb125279.chunk.css.map",
+    "static/js/2.d167ecae.chunk.js.LICENSE.txt": "/playground-react/static/js/2.d167ecae.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.dabacdfd.js",
+    "static/css/2.c46397a6.chunk.css",
+    "static/js/2.d167ecae.chunk.js",
+    "static/css/main.fb125279.chunk.css",
+    "static/js/main.cefc82fd.chunk.js"
+  ]
+}
